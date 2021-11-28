@@ -1,4 +1,4 @@
-namespace CaptainCoder.Utils
+namespace CaptainCoder.Unity
 {
     using UnityEngine;
     using System.Collections.Generic;
